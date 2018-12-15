@@ -15,8 +15,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] User sees app icon in home screen and styled launch screen that looks like the real Instagram page.
-- [ ] Style the feed to look like the real Instagram feed. (2 points)
+- [X] User sees app icon in home screen and styled launch screen that looks like the real Instagram page.
+- [X] Style the feed to look like the real Instagram feed. (2 points)
 - [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse (1 point)
 
 The following **additional** features are implemented:
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/SJDuro45/InstagramClient/blob/master/insta.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -42,7 +42,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Stephan Duroseau]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
